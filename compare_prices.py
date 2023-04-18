@@ -2,8 +2,8 @@ import requests
 import json
 import time
 
-bearer_token = "fjqzesvsdwsaggfvd3wkfw3j"
-authorization = "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2NjcxODM4MTAsImlzcyI6IkdBUEkiLCJ0b2tlbl90eXBlIjoic3RhbmRhcmQiLCJ1c2VybmFtZSI6Ijg0MzQ0NjMwMjIiLCJmdWxsX25hbWUiOiJKT1NFUEggV0VJU1MifQ.yenVffNuQKpDAXDwtf_ZFi2xuE_pUa85X-ohTmUYRPQ"
+bearer_token = ""
+authorization = "Bearer jacobaw8"
 
 filename = 'cars.csv'
 f = open(filename, 'w+')
